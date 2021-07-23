@@ -23,3 +23,5 @@ Curated list of useful Websites, Tools, Newsletters and much more
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
 | [Techcrunch](https://techcrunch.com/)        | News about technology, Startups, and much more. |
+| [Techgig](https://content.techgig.com/top-stories)        | Latest news about Companies hiring, Technical blogs, and Coding challenges   |
+

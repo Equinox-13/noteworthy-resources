@@ -3,7 +3,7 @@ Curated list of useful Websites, Tools, Newsletters and much more
 
 ## Table of Contents
 - [Newsletters](#newsletters)
-- [Websites](#websites)
+- [News](#news)
 - [AI Tools](#ai-tools)
 
 
@@ -19,7 +19,7 @@ Curated list of useful Websites, Tools, Newsletters and much more
     <b><a href="#table-of-contents">↥ Back To Top</a></b>
 </div>
 
-## Websites
+## News
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |

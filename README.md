@@ -4,6 +4,7 @@ Curated list of useful Websites, Tools, Newsletters and much more
 ## Table of Contents
 - [Newsletters](#newsletters)
 - [Websites](#websites)
+- [AI Tools](#ai-tools)
 
 
 ## Newsletters
@@ -24,4 +25,12 @@ Curated list of useful Websites, Tools, Newsletters and much more
 | ----------------------- | ------------------ |
 | [Techcrunch](https://techcrunch.com/)        | News about technology, Startups, and much more. |
 | [Techgig](https://content.techgig.com/top-stories)        | Latest news about Companies hiring, Technical blogs, and Coding challenges   |
+
+
+## AI Tools
+
+| Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
+| ----------------------- | ------------------ |
+| [Profile Pic Maker](https://pfpmaker.com/)        | Make an awesome profile picture from any photo. |
+
 

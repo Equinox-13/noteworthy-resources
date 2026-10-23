@@ -37,6 +37,7 @@ Curated list of useful Websites, Tools, Newsletters and much more
 | [Pixel Hunter](https://pixelhunter.io/)        | Free AI image resizer for social media. |
 | [Removebg](https://www.remove.bg/)        | Remove Image Background for free. |
 | [Notion](https://www.notion.so/)        | Workspace to create customizable notes. |
+| [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) | Free no-sign-up roof replacement cost calculator for U.S. homeowners. |
 
 
 ## Reading

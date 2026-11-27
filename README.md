@@ -37,6 +37,7 @@ Curated list of useful Websites, Tools, Newsletters and much more
 | [Pixel Hunter](https://pixelhunter.io/)        | Free AI image resizer for social media. |
 | [Removebg](https://www.remove.bg/)        | Remove Image Background for free. |
 | [Notion](https://www.notion.so/)        | Workspace to create customizable notes. |
+| [StagePeek](https://stagepeek.live)        | Interactive 3D concert and stadium seat view previewer across 201 venues. |
 
 
 ## Reading
